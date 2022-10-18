@@ -1,0 +1,12 @@
+{
+    "realm": "realm_name",
+    "auth-server-url": "server_url",
+    "ssl-required": "external",
+    "resource": "cleint_id",
+    "verify-token-audience": true,
+    "credentials": {
+        "secret": "xxxxxx"
+    },
+    "confidential-port": 0,
+    "policy-enforcer": {}
+}
